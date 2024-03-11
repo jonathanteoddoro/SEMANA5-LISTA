@@ -289,9 +289,9 @@ let professor1 = new Professor("Cristiano"); // Cria uma instância do professor
 professor1.calcularSalario(300, 30); // Calcula o salário do professor Cristiano
 professor1.descrever("Cristiano", 22, "programação"); // Descreve o professor Cristiano
 
-let professor2 = new Professor("Laura"); // Cria uma instância do professor Laura
-professor2.calcularSalario(500, 40); // Calcula o salário do professor Laura
-professor2.descrever("Laura", 25, "química"); // Descreve o professor Laura
+let professor2 = new Professor("Laura"); // Cria uma instância da professora Laura
+professor2.calcularSalario(500, 40); // Calcula o salário daa professora Laura
+professor2.descrever("Laura", 25, "química"); // Descreve a professora laura
 
 
 ```

@@ -293,4 +293,5 @@ let professor2 = new Professor("Laura"); // Cria uma instância do professor Lau
 professor2.calcularSalario(500, 40); // Calcula o salário do professor Laura
 professor2.descrever("Laura", 25, "química"); // Descreve o professor Laura
 
+
 ```
